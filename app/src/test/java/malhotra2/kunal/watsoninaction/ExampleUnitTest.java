@@ -1,4 +1,4 @@
-package malhotra2.kunal.aitreasurehunt;
+package malhotra2.kunal.watsoninaction;
 
 import org.junit.Test;
 

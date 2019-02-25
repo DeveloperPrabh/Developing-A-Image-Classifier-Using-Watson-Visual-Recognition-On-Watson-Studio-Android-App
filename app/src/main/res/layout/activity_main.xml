@@ -19,7 +19,7 @@
             android:layout_height="wrap_content"
             android:layout_marginTop="5px"
             android:fontFamily="sans-serif"
-            android:text="AI Treasure Hunt"
+            android:text="Watson In Action"
             android:textColor="@color/colorAccent"
             android:textSize="20sp" />
 
@@ -59,9 +59,9 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:fontFamily="sans-serif"
-                android:textSize="20sp"
+                android:textSize="18sp"
                 android:text="Detected Object: "
-                android:layout_margin="10dp"
+                android:layout_margin="5dp"
                 />
 
             <TextView
@@ -69,9 +69,9 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:fontFamily="sans-serif"
-                android:textSize="20sp"
+                android:textSize="18sp"
                 android:text="Detected Score: "
-                android:layout_margin="10dp"
+                android:layout_margin="5dp"
                 />
 
         </LinearLayout>

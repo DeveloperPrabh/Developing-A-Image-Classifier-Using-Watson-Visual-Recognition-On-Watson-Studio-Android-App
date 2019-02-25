@@ -1,4 +1,4 @@
-package malhotra2.kunal.aitreasurehunt;
+package malhotra2.kunal.watsoninaction;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;

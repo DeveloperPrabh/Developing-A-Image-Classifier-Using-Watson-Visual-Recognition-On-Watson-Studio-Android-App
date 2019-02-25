@@ -1,4 +1,4 @@
-package malhotra2.kunal.aitreasurehunt;
+package malhotra2.kunal.watsoninaction;
 
 import android.content.Intent;
 import android.graphics.Bitmap;
@@ -109,7 +109,7 @@ public class MainActivity extends AppCompatActivity {
                         .imagesFile(imagesStream)
                         .imagesFilename(photoFile.getName())
                         .threshold((float) 0.6)
-                        .classifierIds(Arrays.asList("Model1_1126536530"))
+                        .classifierIds(Arrays.asList("<Model_ID>"))
                         .build();
                 ClassifiedImages result = mVisualRecognition.classify(classifyOptions).execute();
                 Gson gson = new Gson();
