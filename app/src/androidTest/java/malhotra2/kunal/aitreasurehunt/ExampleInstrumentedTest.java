@@ -1,4 +1,4 @@
-package com.knrmalhotra.imageclassification;
+package malhotra2.kunal.aitreasurehunt;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("com.knrmalhotra.imageclassification", appContext.getPackageName());
+        assertEquals("malhotra2.kunal.aitreasurehunt", appContext.getPackageName());
     }
 }

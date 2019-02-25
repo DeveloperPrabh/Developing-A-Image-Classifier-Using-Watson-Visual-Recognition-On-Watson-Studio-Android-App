@@ -1,4 +1,4 @@
-package com.knrmalhotra.imageclassification;
+package malhotra2.kunal.aitreasurehunt;
 
 import org.junit.Test;
 
